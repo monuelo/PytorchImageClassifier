@@ -1,4 +1,4 @@
-# PytorchImageClassifier
+# Pytorch Image Classifier
 PyTorch Facebook Scolarship Challenge Project
 
 
